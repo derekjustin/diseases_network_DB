@@ -18,4 +18,6 @@ for community in contents:
         for disease in community["members"]:
             labelcypherfile.write("MATCH( node { code: '" + disease + "'} ) SET node:c" + str(community["community"]) + "\nWITH 1 as dummy\n")
 
+labelcypherfile.write("MATCH (n)\nRETURN n\n")
+
 labelcypherfile.close()

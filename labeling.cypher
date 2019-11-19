@@ -820,3 +820,5 @@ MATCH( node { code: 'C0019189'} ) DETACH DELETE node
 WITH 1 as dummy
 MATCH( node { code: 'C1876165'} ) DETACH DELETE node
 WITH 1 as dummy
+MATCH (n)
+RETURN n
