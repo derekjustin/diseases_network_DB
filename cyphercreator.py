@@ -1,7 +1,7 @@
 import json
 
-with open('formattednodes.json', 'r') as f:
-    contents = json.load(f)
+with open("nodes.json",encoding='utf-8-sig', errors='ignore') as f:
+     contents = json.load(f, strict=False)
 
 for community in contents:
-    print(community['members'])
+    print(community['name'])
