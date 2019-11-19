@@ -1,0 +1,701 @@
+﻿[
+  {
+    "community": 0,
+    "communitySize": 86,
+    "members": [
+      "brain ischemia",
+      "endometriosis",
+      "left ventricular hypertrophy",
+      "alzheimer's disease",
+      "obesity",
+      "pulmonary fibrosis",
+      "asthma, aspirin-induced",
+      "chemical and drug induced liver injury",
+      "diabetes mellitus, non-insulin-dependent",
+      "influenza",
+      "rheumatoid arthritis",
+      "asthma",
+      "heart failure",
+      "contact dermatitis",
+      "kidney failure, chronic",
+      "myocardial infarction",
+      "parkinson disease",
+      "transient cerebral ischemia",
+      "chronic obstructive airway disease",
+      "liver cirrhosis",
+      "lupus erythematosus, systemic",
+      "dermatitis, allergic contact",
+      "pneumonia",
+      "status epilepticus",
+      "polycystic ovary syndrome",
+      "respiratory distress syndrome, adult",
+      "hyperlipoproteinemia type iia",
+      "cholestasis",
+      "atherosclerosis",
+      "maturity onset diabetes mellitus in young",
+      "crohn disease",
+      "parkinson disease 19, juvenile-onset",
+      "non-alcoholic fatty liver disease",
+      "psoriasis",
+      "glomerulonephritis",
+      "ulcerative colitis",
+      "acute coronary syndrome",
+      "fatty liver",
+      "fibrosis, liver",
+      "primary biliary cirrhosis",
+      "hyperlipidemia",
+      "hypercholesterolemia",
+      "lewy body disease",
+      "juvenile arthritis",
+      "hanot's cirrhosis",
+      "melas syndrome",
+      "wolff-parkinson-white syndrome",
+      "diabetes mellitus, insulin-dependent",
+      "degenerative polyarthritis",
+      "gastric ulcer",
+      "ige responsiveness, atopic",
+      "dermatitis, atopic",
+      "lipoidosis",
+      "dyskinesia, drug-induced",
+      "metabolic syndrome x",
+      "thrombocythemia, essential",
+      "hepatitis",
+      "celiac disease",
+      "hyperglycemia",
+      "reactive airway disease",
+      "sclerocystic ovaries",
+      "young onset parkinson disease",
+      "sjogren's syndrome",
+      "hepatitis, autoimmune",
+      "hypercholesterolemia, familial",
+      "colitis",
+      "hypertension, portal",
+      "liver cirrhosis, alcoholic",
+      "necrotizing enterocolitis",
+      "nephritis, interstitial",
+      "paraquat lung",
+      "multiple sclerosis",
+      "chloracne",
+      "pauciarticular juvenile rheumatoid arthritis",
+      "infarction, middle cerebral artery",
+      "urticaria",
+      "spinocerebellar ataxia 17",
+      "liver failure, acute",
+      "barrett esophagus",
+      "cerebral infarction",
+      "amyloidosis, familial visceral",
+      "arthritis, psoriatic",
+      "graves disease",
+      "biliary cirrhosis",
+      "congestive heart failure",
+      "myocardial ischemia"
+    ]
+  },
+  {
+    "community": 3,
+    "communitySize": 79,
+    "members": [
+      "cerebral atrophy",
+      "hypoglycemia",
+      "sensorineural hearing loss (disorder)",
+      "anxiety disease",
+      "strabismus",
+      "leigh disease",
+      "low vision",
+      "conductive hearing loss",
+      "progressive cerebellar ataxia",
+      "retinitis pigmentosa",
+      "atrophy of cerebellum",
+      "glaucoma",
+      "craniosynostosis",
+      "hypertrophic cardiomyopathy",
+      "nystagmus",
+      "optic atrophy",
+      "cerebellar degeneration",
+      "dandy-walker syndrome",
+      "keratoconus",
+      "infantile refsum disease (disorder)",
+      "hypogonadism",
+      "spastic quadriplegia",
+      "hyperinsulinism",
+      "night blindness",
+      "cone/cone-rod dystrophy",
+      "supratentorial atrophy",
+      "myopia",
+      "hydronephrosis",
+      "left ventricular noncompaction 8",
+      "liver failure",
+      "amyotrophic lateral sclerosis",
+      "leukodystrophy",
+      "central nervous system demyelination",
+      "malocclusion",
+      "left ventricular noncompaction 10",
+      "nadh:q(1) oxidoreductase deficiency",
+      "bardet-biedl syndrome",
+      "respiratory failure",
+      "muscular dystrophy",
+      "gastroesophageal reflux disease",
+      "enophthalmos",
+      "addison disease",
+      "hydrocephalus",
+      "cystic kidney",
+      "severe myopia",
+      "leber congenital amaurosis",
+      "walker-warburg congenital muscular dystrophy",
+      "zellweger syndrome",
+      "blindness, legal",
+      "cerebral ischemia",
+      "infratentorial atrophy",
+      "neuro-degenerative disease",
+      "seckel syndrome",
+      "hypertrichosis",
+      "coffin-siris syndrome",
+      "severe visual impairment",
+      "hemiplegia and hemiparesis",
+      "cone dystrophy",
+      "left ventricular noncompaction",
+      "clouding of corneal stroma",
+      "frontotemporal dementia",
+      "angle class 2 malocclusion",
+      "mitochondrial complex i deficiency",
+      "contracture of joint of hand",
+      "atretic auditory canal",
+      "multicystic dysplastic kidney",
+      "ketosis",
+      "retinal detachment",
+      "chromosome 22q11.2 deletion syndrome, distal",
+      "spastic paraplegia",
+      "night blindness, stationary",
+      "amyotrophic lateral sclerosis 1",
+      "cataract microcornea syndrome",
+      "astigmatism",
+      "muscular dystrophy, congenital, 1c",
+      "adrenal cortical hypofunction",
+      "developmental regression",
+      "muscle degeneration",
+      "dystonic disease"
+    ]
+  },
+  {
+    "community": 5,
+    "communitySize": 50,
+    "members": [
+      "pediatric failure to thrive",
+      "female hypogonadism syndrome",
+      "gynecomastia",
+      "osteoporosis",
+      "macroglossia",
+      "exophthalmos",
+      "childhood ataxia with central nervous system hypomyelinization",
+      "cystinuria",
+      "generalized osteopenia",
+      "hypogonadotropic hypogonadism",
+      "primary physiologic amenorrhea",
+      "azoospermia",
+      "hypogonadism, isolated hypogonadotropic",
+      "osteopenia",
+      "pulmonary stenosis",
+      "kallmann syndrome 2 (disorder)",
+      "erectile dysfunction",
+      "premature menopause",
+      "non-obstructive azoospermia",
+      "isolated somatotropin deficiency",
+      "kallmann syndrome",
+      "idiopathic pulmonary arterial hypertension",
+      "hypothyroidism",
+      "hyperopia",
+      "agammaglobulinemia",
+      "secondary physiologic amenorrhea",
+      "severe combined immunodeficiency",
+      "primary hypogonadism",
+      "testicular hypogonadism",
+      "noonan syndrome",
+      "ovarioleukodystrophy",
+      "nephrolithiasis",
+      "hypertrophy of clitoris",
+      "nephrocalcinosis",
+      "conjunctivitis",
+      "gonadal dysgenesis, mixed",
+      "anterior hypopituitarism",
+      "pulmonary arterial hypertension",
+      "sleep apnea syndromes",
+      "ear, patella, short stature syndrome",
+      "coronal craniosynostosis",
+      "hypercalcemia",
+      "hypersomnia",
+      "collapse of vertebra",
+      "oligospermia",
+      "intrahepatic cholestasis",
+      "familial primary pulmonary hypertension",
+      "hyperaldosteronism",
+      "chronic diarrhea",
+      "agammaglobulinemia 1, autosomal recessive"
+    ]
+  },
+  {
+    "community": 10,
+    "communitySize": 46,
+    "members": [
+      "epilepsies, myoclonic",
+      "bell palsy",
+      "hyperglycinuria (disorder)",
+      "intermittent migraine headaches",
+      "myoclonic epilepsies, progressive",
+      "neonatal hypotonia",
+      "tachycardia, ventricular",
+      "porencephaly",
+      "abnormality of the urinary system",
+      "multiple, subcutaneous nodules",
+      "generalized myoclonic seizures",
+      "turcot syndrome (disorder)",
+      "acne",
+      "hemianopsia",
+      "west syndrome",
+      "arthritis",
+      "aminoaciduria",
+      "hypopigmentation disorder",
+      "diabetic nephropathy",
+      "mental retardation, x-linked",
+      "tonic - clonic seizures",
+      "chronic progressive external ophthalmoplegia",
+      "nonketotic hyperglycinemia",
+      "tetany",
+      "gingival hypertrophy",
+      "cerebral palsy",
+      "intracranial hypertension",
+      "malformations of cortical development",
+      "ventricular tachycardia, catecholaminergic polymorphic, 1 (disorder)",
+      "periventricular neuronal heterotopia",
+      "epilepsy, temporal lobe",
+      "steatohepatitis",
+      "anemia, macrocytic",
+      "dysautonomia",
+      "epileptic encephalopathy",
+      "sialorrhea",
+      "choreoathetosis",
+      "gross motor development delay",
+      "vasculitis",
+      "choreatic disease",
+      "exotropia",
+      "renal tubular disorder",
+      "profound global developmental delay",
+      "adult fanconi syndrome",
+      "precocious puberty",
+      "epilepsy"
+    ]
+  },
+  {
+    "community": 2,
+    "communitySize": 19,
+    "members": [
+      "bronchiectasis",
+      "anemia",
+      "lymphopenia",
+      "ear infection chronic",
+      "sinusitis",
+      "recurrent sinusitis",
+      "recurrent otitis media",
+      "fanconi anemia",
+      "leukopenia",
+      "chronic otitis media",
+      "anorexia",
+      "kartagener syndrome",
+      "recurrent sinus disease",
+      "hypogammaglobulinemia",
+      "hyperferritinaemia",
+      "recurrent bronchitis",
+      "pyridoxine-responsive sideroblastic anemia",
+      "pancytopenia",
+      "pancreatitis"
+    ]
+  },
+  {
+    "community": 1,
+    "communitySize": 14,
+    "members": [
+      "palmoplantar keratosis",
+      "dystrophia unguium",
+      "alopecia",
+      "xerosis",
+      "eczema",
+      "keratosis palmoplantaris papulosa",
+      "nail dysplasia",
+      "exfoliative dermatitis",
+      "brittle hair",
+      "hyperkeratosis",
+      "ichthyoses",
+      "keratitis",
+      "hypotrichosis simplex",
+      "dental caries"
+    ]
+  },
+  {
+    "community": 8,
+    "communitySize": 9,
+    "members": [
+      "aortic aneurysm, familial thoracic 3",
+      "dyspnea, paroxysmal",
+      "cystic medial necrosis of aorta",
+      "aortic valve insufficiency",
+      "coronary artery disease",
+      "cutis marmorata",
+      "loeys-dietz aortic aneurysm syndrome",
+      "left-sided heart failure",
+      "coronary heart disease"
+    ]
+  },
+  {
+    "community": 7,
+    "communitySize": 8,
+    "members": [
+      "congenital bilateral cataracts",
+      "hearing loss, progressive sensorineural",
+      "blindness, cortical",
+      "nuclear non-senile cataract",
+      "cataract 16, multiple types",
+      "nuclear cataract",
+      "cataract, pulverulent",
+      "sensorineural hearing loss, bilateral"
+    ]
+  },
+  {
+    "community": 15,
+    "communitySize": 8,
+    "members": [
+      "optic atrophy, hereditary, leber",
+      "familial aplasia of the vermis",
+      "optic neuropathy",
+      "oculomotor apraxia",
+      "polyneuropathy",
+      "joubert syndrome with ocular defect",
+      "retinal telangiectasia",
+      "meckel-gruber syndrome"
+    ]
+  },
+  {
+    "community": 16,
+    "communitySize": 6,
+    "members": [
+      "renal insufficiency",
+      "kidney failure",
+      "chronic kidney disease stage 5",
+      "hypoalbuminemia",
+      "focal glomerulosclerosis",
+      "nephronophthisis"
+    ]
+  },
+  {
+    "community": 13,
+    "communitySize": 5,
+    "members": [
+      "akinesia",
+      "arthrogryposis",
+      "distal arthrogryposis syndrome",
+      "pena-shokeir syndrome type i",
+      "arthrogryposis, distal, type 2b"
+    ]
+  },
+  {
+    "community": 11,
+    "communitySize": 4,
+    "members": [
+      "narcolepsy-cataplexy syndrome",
+      "narcolepsy",
+      "cataplexy",
+      "narcolepsy 1"
+    ]
+  },
+  {
+    "community": 31,
+    "communitySize": 4,
+    "members": [
+      "absence epilepsy",
+      "myoclonic epilepsy, juvenile",
+      "epilepsy, childhood absence, 1",
+      "epileptic drop attack"
+    ]
+  },
+  {
+    "community": 4,
+    "communitySize": 3,
+    "members": [
+      "immune thrombocytopenic purpura",
+      "idiopathic thrombocytopenia",
+      "autoimmune thrombocytopenia"
+    ]
+  },
+  {
+    "community": 9,
+    "communitySize": 3,
+    "members": [
+      "urgency frequency syndrome",
+      "overactive bladder syndrome",
+      "urgency of micturition"
+    ]
+  },
+  {
+    "community": 25,
+    "communitySize": 3,
+    "members": [
+      "vesico-ureteral reflux",
+      "microcephaly, primary autosomal recessive, 1",
+      "recurrent urinary tract infection"
+    ]
+  },
+  {
+    "community": 6,
+    "communitySize": 2,
+    "members": [
+      "bulbar weakness",
+      "bulbar palsy"
+    ]
+  },
+  {
+    "community": 12,
+    "communitySize": 2,
+    "members": [
+      "foot-drop",
+      "distal amyotrophy"
+    ]
+  },
+  {
+    "community": 14,
+    "communitySize": 2,
+    "members": [
+      "progressive familial heart block, type ib",
+      "hereditary bundle branch system defect"
+    ]
+  },
+  {
+    "community": 17,
+    "communitySize": 2,
+    "members": [
+      "multiple pulmonary infections",
+      "recurrent pneumonia"
+    ]
+  },
+  {
+    "community": 18,
+    "communitySize": 2,
+    "members": [
+      "anemia, hemolytic",
+      "elliptocytosis, hereditary"
+    ]
+  },
+  {
+    "community": 19,
+    "communitySize": 2,
+    "members": [
+      "conjugated hyperbilirubinemia",
+      "rotor syndrome"
+    ]
+  },
+  {
+    "community": 20,
+    "communitySize": 2,
+    "members": [
+      "atrioventricular block",
+      "atrioventricular nodal disease"
+    ]
+  },
+  {
+    "community": 21,
+    "communitySize": 2,
+    "members": [
+      "exocrine pancreatic insufficiency",
+      "pancreatic insufficiency"
+    ]
+  },
+  {
+    "community": 22,
+    "communitySize": 2,
+    "members": [
+      "hypofibrinogenemia",
+      "congenital hypofibrinogenemia"
+    ]
+  },
+  {
+    "community": 23,
+    "communitySize": 2,
+    "members": [
+      "velopharyngeal insufficiency",
+      "unilateral primary pulmonary dysgenesis"
+    ]
+  },
+  {
+    "community": 24,
+    "communitySize": 2,
+    "members": [
+      "pancreatitis, chronic",
+      "hereditary pancreatitis"
+    ]
+  },
+  {
+    "community": 26,
+    "communitySize": 2,
+    "members": [
+      "scleroatonic muscular dystrophy",
+      "bethlem myopathy"
+    ]
+  },
+  {
+    "community": 27,
+    "communitySize": 2,
+    "members": [
+      "behcet syndrome",
+      "oral ulcer"
+    ]
+  },
+  {
+    "community": 28,
+    "communitySize": 2,
+    "members": [
+      "peripheral axonal neuropathy",
+      "axonal neuropathy"
+    ]
+  },
+  {
+    "community": 29,
+    "communitySize": 2,
+    "members": [
+      "encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",
+      "herpes encephalitis"
+    ]
+  },
+  {
+    "community": 30,
+    "communitySize": 2,
+    "members": [
+      "blepharitis",
+      "cellulitis of eyelid"
+    ]
+  },
+  {
+    "community": 32,
+    "communitySize": 2,
+    "members": [
+      "dysseborrheic dermatitis",
+      "seborrheic dermatitis"
+    ]
+  },
+  {
+    "community": 33,
+    "communitySize": 2,
+    "members": [
+      "ellis-van creveld syndrome",
+      "weyers acrofacial dysostosis"
+    ]
+  },
+  {
+    "community": 34,
+    "communitySize": 2,
+    "members": [
+      "recurrent aphthous ulcer",
+      "aphthous stomatitis"
+    ]
+  },
+  {
+    "community": 35,
+    "communitySize": 2,
+    "members": [
+      "generalized elastolysis",
+      "cutis laxa"
+    ]
+  },
+  {
+    "community": 36,
+    "communitySize": 2,
+    "members": [
+      "infection of bone",
+      "osteomyelitis"
+    ]
+  },
+  {
+    "community": 37,
+    "communitySize": 2,
+    "members": [
+      "purpura",
+      "bernard-soulier syndrome"
+    ]
+  },
+  {
+    "community": 38,
+    "communitySize": 2,
+    "members": [
+      "intestinal obstruction",
+      "cystic fibrosis modifier 1"
+    ]
+  },
+  {
+    "community": 39,
+    "communitySize": 2,
+    "members": [
+      "lactose intolerance, adult type",
+      "lactose intolerance"
+    ]
+  },
+  {
+    "community": 40,
+    "communitySize": 2,
+    "members": [
+      "myositis",
+      "kappa-chain deficiency"
+    ]
+  },
+  {
+    "community": 41,
+    "communitySize": 2,
+    "members": [
+      "miller-mckusick-malvaux-syndrome (3m syndrome)",
+      "dwarfism tall vertebrae"
+    ]
+  },
+  {
+    "community": 42,
+    "communitySize": 2,
+    "members": [
+      "atrial fibrillation",
+      "atrial fibrillation, familial, 1 (disorder)"
+    ]
+  },
+  {
+    "community": 43,
+    "communitySize": 2,
+    "members": [
+      "pustulosis of palms and soles",
+      "generalized pustular psoriasis"
+    ]
+  },
+  {
+    "community": 44,
+    "communitySize": 2,
+    "members": [
+      "pendular nystagmus",
+      "nystagmus, continuous pendular"
+    ]
+  },
+  {
+    "community": 45,
+    "communitySize": 2,
+    "members": [
+      "hyperphosphatemia (disorder)",
+      "tumoral calcinosis, hyperphosphatemic, familial"
+    ]
+  },
+  {
+    "community": 46,
+    "communitySize": 2,
+    "members": [
+      "complex partial seizures",
+      "complex partial seizure with impairment of consciousness"
+    ]
+  },
+  {
+    "community": 47,
+    "communitySize": 2,
+    "members": [
+      "hepatitis, chronic",
+      "copper-overload cirrhosis"
+    ]
+  }
+]
