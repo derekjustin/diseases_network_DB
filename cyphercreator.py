@@ -1,6 +1,6 @@
 import json
 
-with open('nodes.json', 'r') as f:
+with open('formattednodes.json', 'r') as f:
     contents = json.load(f)
 
 for community in contents:
