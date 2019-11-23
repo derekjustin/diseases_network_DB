@@ -1,0 +1,26 @@
+Community c0(85 diseases)
+
+    We have chosen c0 as our selected community.  Our hypothesis is that obesity 
+is a cause of many other diseases.  Due to the amount of relationships that 
+obesity shares with other nodes it is safe to assume that obesity is associated 
+with many other diseases.  Scientific research has proven that obesity is the 
+root cause of heart failure, diabetes and hypertension (Padula, Allen, & Nair, 2013). 
+All three of these nodes share a relationship with obesity.  
+
+    What was interesting to see was the relationship between Alztiemers desease and 
+obesity.  There has been growing research in the association between obesity and 
+Alztiemers.  Alztiemers is essentially accelerated dementia.  What causes this 
+acceleration has been a mystery.  Today research has hypothesized that blood flow to 
+the brain has been hindered by clogged capillaries.  With a lack of blood flow 
+neurons die and an accelerated rate of dementia ensues (Lee, 2011).  Although 
+Alztiemers has not been officially categorized as a symptom of obesity it is 
+interesting relationship between these two nodes.  
+
+References
+    Lee, E. (2011, December). Obesity, leptin, and alzheimer's disease. 
+        Retrieved November 23, 2019, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3564488/
+
+    Padula, W., Allen, R., & Nair, K. (2013, November 22). Determining the cost of obesity
+        and its common comorbidities from a commercial claims database. Retrieved November 23, 
+        2019, from https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12041?casa_token=LsXxIveg
+        NpYAAAAA%3As8hDgAjmYFxFD7tbIQ8Hfs6SRXY9dtZKt3b20YtITXngE9j8ZKTdlkSytjviQewtcMp9MAD0gibVyiw
