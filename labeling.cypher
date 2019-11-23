@@ -1,3 +1,7 @@
+// AUTHORS: DEREK HOLSAPPLE,JUSTIN STRELKA
+// DATE: 2019-11-23 07:24:35.609856
+// PROJECT: disease_network_DB
+// FILE: LABELING.CYPHER
 MATCH( node { code: 'C0007786'} ) SET node:c0
 WITH 1 as dummy
 MATCH( node { code: 'C0014175'} ) SET node:c0
